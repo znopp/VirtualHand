@@ -27,8 +27,8 @@ that you are in need of help, and during this time you can continue to try and w
 ## Features I want to add:
 
 * Point / reward system for helping a student
- * Point given by student who requested help, if they deem the help to be sufficient. Is required to choose either 1 or 0 points before requesting help again.
-  * The lock can be achieved either by stopping the user from leaving the text thread until rating the help, or by turning off the "help needed" screen until the help has been rated.
+  * Point given by student who requested help, if they deem the help to be sufficient. Is required to choose either 1 or 0 points before requesting help again.
+    * The lock can be achieved either by stopping the user from leaving the text thread until rating the help, or by turning off the "help needed" screen until the help has been rated.
 
 * Hidden references and easter eggs
 
