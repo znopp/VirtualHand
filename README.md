@@ -11,18 +11,22 @@ that you are in need of help, and during this time you can continue to try and w
 
 * Log in with school account
   * Teachers have a different view
-    - Sidebar to log in / out
     - Screen has a random number generator for the students to enter the classroom
+    - Sidebar to log in / out, show the number generator and show a different screen with list of people who need help
 
 * Gray background by default
   * Changes into green / red screen once logged in and class chosen, changes on touch/click
 
-* Side menu to log in / out
+* Side menu to log in / out, show the help needed screen and show a different screen with list of people who need help
+ * Ability to click person in the list and start a text thread
+  * This is meant to be a way for students to help eachother, without the teacher needing to intervene.
 
 * Kahoot-like verification
   * This means that you can only exist in classes that you are currently having.
 
 ## Features I want to add:
+
+* Point / reward system for helping a student
 
 * Hidden references and easter eggs
 
